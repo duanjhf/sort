@@ -2,7 +2,7 @@
  * sortMain.c.
  * Description: sortMain.c.
  * Author: duan. Created on: 2016年4月17日
- * copyright @ 2016. LICENSE("GPL/BSD")
+ * copyright(c)2016. LICENSE("GPL/BSD")
  */
 
 #include "sort.h"

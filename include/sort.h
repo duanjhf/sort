@@ -2,7 +2,7 @@
  * sort.h.
  * Description: sort.h.
  * Author: duan. Created on: 2016年4月18日
- * copyright @ 2016. LICENSE("GPL/BSD")
+ * copyright(c)2016. LICENSE("GPL/BSD")
  */
 
 #ifndef INCLUDE_SORT_H_

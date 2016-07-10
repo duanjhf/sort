@@ -2,7 +2,7 @@
  * sortDefine.h.
  * Description: sortDefine.h.
  * Author: duan. Created on: 2016年4月17日
- * copyright @ 2016. LICENSE("GPL/BSD")
+ * copyright(c)2016. LICENSE("GPL/BSD")
  */
 
 #ifndef INCLUDE_SORTDEFINE_H_

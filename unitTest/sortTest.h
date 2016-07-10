@@ -2,7 +2,7 @@
  * sortTest.h.
  * Description: sortTest.h.
  * Author: duan. Created on: 2016年4月24日
- * copyright @ 2016. LICENSE("GPL/BSD")
+ * copyright(c)2016. LICENSE("GPL/BSD")
  */
 
 #ifndef UNITTEST_SORTTEST_H_
